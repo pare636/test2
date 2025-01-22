@@ -8,7 +8,7 @@
     overflow: hidden;
     height: 100%;
     width: 100%;
-    background-image: url('../image/banna.gif');
+    background-image: url('test2/ezgif.com-gif-to-webp-converter.webp');
     background-size: cover;
     padding: 3rem 4rem;
     display: flex;
@@ -76,7 +76,7 @@
     width: 100%;
     height: 4.5rem;
     display: block;
-    background-color: #4fc866;
+    background-color:#4fc866;
     border-radius: 2rem;
     text-align: center;
     line-height: 4.5rem;
